@@ -11,3 +11,7 @@ You can also download:
 
 * [Slides as PPTX](https://raw.githubusercontent.com/neural-reckoning/cambridge-fens-chen-summer-school-2026/refs/heads/main/learning-with-spikes.pptx)
 * [Slides as PDF](https://raw.githubusercontent.com/neural-reckoning/cambridge-fens-chen-summer-school-2026/refs/heads/main/learning-with-spikes.pdf)
+
+If you like this short tutorial, feel free to check out my free online course:
+
+👉 [Neuroscience for machine learners](https://neuro4ml.github.io/)
